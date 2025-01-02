@@ -1,0 +1,51 @@
+.form_section{
+    background-color: #e7e7e714;
+    width: 35%;
+    box-shadow: 1px 0px 10px 0px lightgray;
+    margin-left: 30%;
+}
+.title h1{
+    color: #04d9bd;
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Playfair Display", serif;
+
+}
+.email_label{
+    margin-left: 14px;
+    font-family: "Roboto", serif;
+    font-weight: 600;
+}
+.input_value{
+    margin-left: 14px;
+    margin-top: 14px;
+    width: 80%;
+    padding: 10px 12px;
+    outline: lightgray;
+    font-family: "Roboto", serif;
+}
+::placeholder{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Roboto", serif;
+}
+p{
+    color: gray;
+    margin-left: 14px;
+    margin-top: 14px;
+    font-family: "Roboto", serif;
+}
+.btn button{
+    background-color:#04d9bd;
+    padding: 8px 18px;
+    outline: none;
+    border-radius: 8px;
+    border: 1px solid #04d9bd;
+    font-size: 16px;
+    color: white;
+    font-family: "Roboto", serif;
+}
+.btn{
+    text-align: center;
+    padding: 20px 0;
+}
